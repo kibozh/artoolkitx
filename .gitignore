@@ -71,3 +71,7 @@ xcuserdata/
 
 #### Other VCS
 .svn/
+cmake-build-debug/
+out/
+.vs/
+.idea/
